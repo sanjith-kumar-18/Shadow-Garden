@@ -20,10 +20,10 @@ This repository contains a collection of challenges encompassing various cyberse
 ## Getting Started
 To engage with these challenges, follow these steps:
 
-# Prerequisites: Ensure you have Vagrant installed.
-# Clone Repository: Clone this repository to your local machine.
-# Access Challenge: Navigate to the specific challenge directory to begin.
-# Solve Challenges: Read the challenge description, follow instructions, and solve to find the flags.
+### Prerequisites: Ensure you have Vagrant installed.
+### Clone Repository: Clone this repository to your local machine.
+### Access Challenge: Navigate to the specific challenge directory to begin.
+### Solve Challenges: Read the challenge description, follow instructions, and solve to find the flags.
 
 ## Contributing
 Contributions to expand this collection are welcome! Feel free to fork this repository, add new challenges, or improve existing ones. Submit pull requests to contribute.
