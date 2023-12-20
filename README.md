@@ -33,7 +33,8 @@ To engage with these challenges, follow these steps:
 Contributions to expand this collection are welcome! Feel free to fork this repository, add new challenges, or improve existing ones. Submit pull requests to contribute.
 
 ## Another Method (to download):
+```bash
 https://drive.google.com/file/d/1Gkj-zE8-uFZPbeRC0zRxFxSaUNsRV4M9/view?usp=drive_link
-
+```
 ## Disclaimer
 These challenges are designed for educational purposes and should only be attempted in controlled environments. Avoid using these techniques in unauthorized or malicious ways.
